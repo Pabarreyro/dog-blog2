@@ -1,0 +1,24 @@
+h1 {
+  color: Crimson;
+  font-family: impact;
+  font-weight: 600;
+}
+
+h2 {
+  color: DodgerBlue;
+  font-size: 30px;
+}
+
+h4 {
+  text-align: center;
+  text-shadow: 3px 4px Gainsboro;
+}
+
+li {
+  color: DarkOrchid;
+  text-shadow: 3px 4px Lavender;
+}
+
+body {
+  background-color: OldLace;
+}
