@@ -1,3 +1,21 @@
+.dark {
+  background-color: #3E4147;
+}
+
+.dark h4 {
+  color: OldLace;
+}
+
+.hide {
+  display: none;
+}
+
+.btn {
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
 h1 {
   color: Crimson;
   font-family: impact;
@@ -11,12 +29,12 @@ h2 {
 
 h4 {
   text-align: center;
-  text-shadow: 3px 4px Gainsboro;
+  /*text-shadow: 3px 4px Gainsboro;*/
 }
 
 li {
   color: DarkOrchid;
-  text-shadow: 3px 4px Lavender;
+  /*text-shadow: 3px 4px Lavender;*/
 }
 
 body {
